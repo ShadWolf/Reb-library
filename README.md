@@ -16,4 +16,6 @@ Rebol Community along the years had done some pretty amazing piece of coding. By
 and setting as my goal to have those script fully working with REBOL v3 I hope to address a thank you to 
 the Rebol community.
 
-![Alt text](/../master/images/viva-rebol.jpg?raw=true "Viva-Rebol")
+Example of script made with rebol/view 2
+
+![Alt text](/../<branch name>/path/to/image.png?raw=true "Optional Title")
